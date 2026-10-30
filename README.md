@@ -27,7 +27,9 @@ Program and Output:
 
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
+
 Developed by: SIVA SAKTHI A
+
 RegisterNumber: 212224223005
 */
 ```
